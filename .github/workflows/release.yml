@@ -1,4 +1,4 @@
-name: Rlease package
+name: Release package
 
 on:
   create:
